@@ -1,27 +1,26 @@
-.maindiv{
-    margin: 0;
-    padding: 0;
-  }
-  .top{
-    margin-left: 16px;
-    margin-right: 0px;
-   
-  }
-  .top h1{
-    margin-top: 60px;
-    display: inline-block;
-    font-size: 32px;
-    margin-bottom: 0;
-  }
-  .btn{
-    float: right;
-    margin-top: 67px;
-    margin-right: 12px;
-  }
-  .content{
-    margin-top: 35px;
-    margin-left: 18px;
-  }
-  .plus{
-    color:#006CFF;
-  }
+.maindiv {
+  margin: 0;
+  padding: 0;
+}
+.top {
+  margin-left: 16px;
+  margin-right: 0px;
+}
+.top h1 {
+  margin-top: 60px;
+  display: inline-block;
+  font-size: 32px;
+  margin-bottom: 0;
+}
+.btn {
+  float: right;
+  margin-top: 67px;
+  margin-right: 12px;
+}
+.content {
+  margin-top: 35px;
+  margin-left: 18px;
+}
+.plus {
+  color: #006cff;
+}
